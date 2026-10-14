@@ -23,6 +23,8 @@ Content = '这里记录技术实践、学习笔记和一些思考。'
 [[params.socialIcons]]
 name = 'github'
 url = 'https://github.com/yuzhou-1003'
+[params.assets]
+favicon = "/favicon.svg"
 [outputs]
 home = ['HTML', 'RSS', 'JSON']
 [menu]
